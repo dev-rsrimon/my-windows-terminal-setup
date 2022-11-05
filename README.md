@@ -22,29 +22,42 @@ Copy past `setting.json` file code to your `terminal settings.json` file
 install those packags.
 Let's run those command on your terminal (If you don't have git bash. You need to install it before run those command)
 
-`Install-Module posh-git -Scope CurrentUser`
+```
+Install-Module posh-git -Scope CurrentUser
+```
 
-`Install-Module oh-my-posh -Scope CurrentUser -RequiredVersion 2.0.412`
+```
+Install-Module oh-my-posh -Scope CurrentUser -RequiredVersion 2.0.412
+```
 
-`Install-Module -Name PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck`
+```
+Install-Module -Name PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
+```
 
 ### Step- 5
 Run this command on your terminal 
 
-`notepad $PROFILE`
+```
+notepad $PROFILE
+```
 
 your can see notepad open a file. Just past those line code into this then save and close
 
-`Import-Module posh-git`
-
-`Import-Module oh-my-posh`
-
-`Set-PoshPrompt -Theme paradox`
+```
+Import-Module posh-git`
+Import-Module oh-my-posh
+Set-Theme Robbyrussell
+```
 
 ###  Done 
 Run this this command And enjoy your Awesome Terminal 
 
-`Set-Theme Agnoster`
+```
+Set-Theme Agnoster
+```
+
+### For more Configuration follow this link
+[oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh2#installation)
 
 
 
