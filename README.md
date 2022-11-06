@@ -1,6 +1,6 @@
 # My Windows Terminal -setup
 
-<p align="center">
+<p align="">
   <img src="https://github.com/dev-rsrimon/my-windows-terminal-setup/blob/main/demo.png" width="550" title="hover text">
 </p>
 
@@ -58,6 +58,12 @@ Set-Theme Robbyrussell
 
 ### For more Configuration follow this link
 [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh2#installation)
+
+
+### If you below issue then run this command
+```
+
+```
 
 
 
