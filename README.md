@@ -1,7 +1,7 @@
 # My Windows Terminal -setup
 
 <p align="center">
-  <img src="https://github.com/dev-rsrimon/my-windows-terminal-setup/blob/main/teminal.PNG" width="550" title="hover text">
+  <img src="https://github.com/dev-rsrimon/my-windows-terminal-setup/blob/main/demo.png" width="550" title="hover text">
 </p>
 
 ## How to install 
