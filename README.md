@@ -60,11 +60,6 @@ Set-Theme Robbyrussell
 [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh2#installation)
 
 
-### If you below issue then run this command
-```
-
-```
-
 
 
 Thank you
