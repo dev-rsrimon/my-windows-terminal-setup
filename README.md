@@ -44,7 +44,7 @@ notepad $PROFILE
 your can see notepad open a file. Just past those line code into this then save and close
 
 ```
-Import-Module posh-git`
+Import-Module posh-git
 Import-Module oh-my-posh
 Set-Theme Robbyrussell
 ```
@@ -53,7 +53,7 @@ Set-Theme Robbyrussell
 Run this this command And enjoy your Awesome Terminal 
 
 ```
-Set-Theme Agnoster
+Set-Theme Robbyrussell
 ```
 
 ### For more Configuration follow this link
